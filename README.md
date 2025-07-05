@@ -55,6 +55,6 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/e6dbbe9e4fe81da7743b8e4ca4d35eb8/f52d5fb7c51d28c1-7f/s540x810/74eff26db552d92ed97241257a2f98b768c88aa4.gif"  />
+![Viktor](https://i.imgur.com/8Wb8WcZ.gif)
 
 ###
