@@ -42,7 +42,7 @@
 
 <br />
 <p>
-  
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFhb2hkNmZjc2wzYmI5NDJ6eW9wMHVzcGRkejVrbXp1enpsd2FpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uASq98lHjXAjzXjHoU/giphy.gif" alt="GIF do Viktor" width="300" style="display: block; margin: 0 auto;" />
-
+  <div style="text-align: center;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFhb2hkNmZjc2wzYmI5NDJ6eW9wMHVzcGRkejVrbXp1enpsd2FpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uASq98lHjXAjzXjHoU/giphy.gif" alt="GIF do Viktor" width="300" />
+</div>
 </p>
