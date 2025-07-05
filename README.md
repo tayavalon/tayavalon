@@ -4,22 +4,15 @@
 
 <p align="left">Sou apaixonada por tecnologia, arte e aprendizado constante. Atualmente focada em desenvolvimento web, buscando me tornar uma desenvolvedora Full Stack.</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+<div align="center" style="white-space: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" style="height:24px; display:inline-block; vertical-align:middle; margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" style="height:24px; display:inline-block; vertical-align:middle;" />
 </div>
 
 <br />
@@ -32,26 +25,23 @@
 
 <p align="center">💻 Ficou interessado no meu trabalho? Vamos conversar! Me encontre nas redes abaixo.</p>
 
-<div align="center">
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
+<div align="center" style="white-space: nowrap;">
+  <a href="https://discord.com/channels/@me" target="_blank" style="display:inline-block; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" style="height:30px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tay_avalon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
+  <a href="https://www.instagram.com/tay_avalon/" target="_blank" style="display:inline-block; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" style="height:30px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/qr/63E622LB2YSZH1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo" />
+  <a href="https://wa.me/qr/63E622LB2YSZH1" target="_blank" style="display:inline-block; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="whatsapp logo" style="height:30px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tainara-martinez-6a2519373/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/tainara-martinez-6a2519373/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" style="height:30px;" />
   </a>
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://i.imgur.com/8Wb8WcZ.gif" alt="Viktor" />
+  <img src="https://i.imgur.com/8Wb8WcZ.gif" alt="Viktor" onerror="this.onerror=null; this.src='https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif';" style="max-width:200px;" />
 </p>
