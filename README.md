@@ -17,12 +17,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tayavalon/tayavalon/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br />
-
 <p align="center">💻 Ficou interessado no meu trabalho? Vamos conversar! Me encontre nas redes abaixo.</p>
 
 <div align="center" style="white-space: nowrap;">
