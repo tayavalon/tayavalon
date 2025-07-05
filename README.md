@@ -43,5 +43,5 @@
 <br />
 
 <p align="center">
-  <img src="https://i.imgur.com/8Wb8WcZ.gif" alt="Viktor" onerror="this.onerror=null; this.src='https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif';" style="max-width:200px;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Viktor" style="max-width:200px;" />
 </p>
